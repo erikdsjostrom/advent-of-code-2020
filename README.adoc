@@ -1,0 +1,5 @@
+= Advent of Code 2020
+
+== Language of the year:
+
+image::https://blog.golang.org/gopher/gopher.png[Gopher]
