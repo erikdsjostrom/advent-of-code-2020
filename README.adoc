@@ -3,3 +3,12 @@
 == Language of the year:
 
 image::https://blog.golang.org/gopher/gopher.png[Gopher]
+
+=== Day 1:
+[%collapsible]
+====
+[source,go]
+----
+include::1/solution.go[]
+----
+====
